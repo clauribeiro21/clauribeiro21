@@ -21,5 +21,7 @@
   ##
   
 <div>
+
    ![Snake animation](https://github.com/clauribeiro21/clauribeiro21/blob/output/github-contribution-grid-snake.svg)
+   
  </div>
